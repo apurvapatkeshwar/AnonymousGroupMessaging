@@ -1,0 +1,26 @@
+{
+  "name": "chat-app-server",
+  "version": "1.0.0",
+  "description": "A basic chat backend that supports the following requests:",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "sqlite3": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuojunHong/chat-app-server.git"
+  },
+  "keywords": [],
+  "author": "Ruojun Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuojunHong/chat-app-server/issues"
+  },
+  "homepage": "https://github.com/RuojunHong/chat-app-server#readme"
+}
